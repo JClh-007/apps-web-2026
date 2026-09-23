@@ -1,0 +1,27 @@
+h1{
+    color: rgb(110, 41, 61);
+    font-size: 5rem;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+p{
+    font-family: MONTSERRAT, sans-serif;
+}
+.noticias{
+    color: rgb(178, 34, 75);
+    font-size: 3rem;
+    font-family: MONTSERRAT, sans-serif;
+}
+#titulo1{
+    color: rgb(166, 0, 47);
+    font-size: 3rem;
+    font-family: MONTSERRAT, sans-serif;
+}
+.box{
+  width: 300px;
+  padding: 20px;
+  border: 5px solid #cf1d55;
+  margin: 25px;
+  background-color: #efb8d3;  
+  border-radius: 10px;
+  text-align: center;
+}
